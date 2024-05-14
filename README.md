@@ -113,7 +113,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kiddMiguel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=fr&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=kiddMiguel&theme=algolia&column=3&row=2&margin-w=25&margin-h=28&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
