@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kiddMiguel.kiddMiguel&left_color=darkgrey&right_color=chocolate"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kiddMiguel.kiddMiguel&left_color=darkgrey&right_color=chocolate&left_text=Visiteurs%20"  />
 </div>
 
 ###
@@ -101,6 +101,10 @@
 
 ###
 
+<h4 align="left">🪟 Vue</h4>
+
+###
+
 <br clear="both">
 
 <img align="right" height="150" src="https://videogamemods.com/fighterz/wp-content/uploads/sites/5/cmdm/175362/1583851590_25fps.gif"  />
@@ -120,9 +124,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiddMiguel&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false&order=2" height="153" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiddMiguel&radius=16&theme=redical&area=false&order=5" height="155" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/kiddMiguel/kiddMiguel/output/snake.svg" alt="Snake animation" />
 
 ###
