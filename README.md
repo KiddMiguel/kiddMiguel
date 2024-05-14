@@ -4,9 +4,19 @@
 
 <br clear="both">
 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kiddMiguel.kiddMiguel&left_color=darkgrey&right_color=chocolate"  />
+</div>
+
+###
+
+<br clear="both">
+
 <p align="left">Je suis Miguel Kidimba, étudiant en Bachelor à l'IRIS - École supérieure d'informatique. Actuellement, je suis développeur web en alternance chez GoPaas. Passionné par le développement web et les nouvelles technologies, je suis constamment à la recherche de nouvelles opportunités pour apprendre et grandir professionnellement.</p>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/miguel-kidimba-099425221/" target="_blank">
@@ -98,9 +108,21 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiddMiguel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=fr&hide_border=false" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=kiddMiguel&locale=fr&mode=daily&theme=algolia&hide_border=false&border_radius=8" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiddMiguel&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiddMiguel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=fr&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=kiddMiguel&locale=fr&mode=daily&theme=algolia&hide_border=false&border_radius=8" height="130" alt="streak graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiddMiguel&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false&order=2" height="153" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiddMiguel&radius=16&theme=redical&area=false&order=5" height="155" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/kiddMiguel/kiddMiguel/output/snake.svg" alt="Snake animation" />
 
 ###
