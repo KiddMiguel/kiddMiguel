@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">Je suis Miguel Kidimba, étudiant en Bachelor à l'IRIS - École supérieure d'informatique. Actuellement, je suis développeur web en alternance chez GoPaas. Passionné par le développement web et les nouvelles technologies, je suis constamment à la recherche de nouvelles opportunités pour apprendre et grandir professionnellement.</p>
+<p align="left">Je suis Miguel Kidimba, étudiant en Bachelor à l'IPSSI - École supérieure d'informatique. Actuellement, je suis développeur web en alternance chez GoPaas. Passionné par le développement web et les nouvelles technologies, je suis constamment à la recherche de nouvelles opportunités pour apprendre et grandir professionnellement.</p>
 
 ###
 
