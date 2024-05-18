@@ -1,121 +1,118 @@
-<h2 align="left">👋 Bonjour !</h2>
+<h1 align="left">👋 Bonjour !</h1>
+
+###
+
+<p align="left">Je suis Kidd Miguel, étudiant en Bachelor à l'IPSSI - École supérieure d'informatique. Actuellement, je suis développeur web en alternance chez Nids Consulting 🏢.</p>
+
+###
+
+<h2 align="left">💫 A propos</h2>
+
+###
+
+<p align="left">✨ Mon travail actuel n'est pas spécifique ...<br>📚 Apprentissage continu ...<br>🎯 Finir l'application Fixhu<br>🎲 Assez fort sur Call of duty Warzone ...<br>💻  Développement full-stack ...</p>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kiddMiguel.kiddMiguel&left_color=darkgrey&right_color=chocolate&left_text=Visiteurs%20"  />
-</div>
+<img align="right" height="200" src="https://camo.githubusercontent.com/fc114b2d47a74a5a65e75c23f75f466377ef84edec698bfeab889dcc4ccb0f77/68747470733a2f2f766964656f67616d656d6f64732e636f6d2f666967687465727a2f77702d636f6e74656e742f75706c6f6164732f73697465732f352f636d646d2f3137353336322f313538333835313539305f32356670732e676966"  />
 
 ###
 
-<br clear="both">
-
-<p align="left">Je suis Miguel Kidimba, étudiant en Bachelor à l'IPSSI - École supérieure d'informatique. Actuellement, je suis développeur web en alternance chez GoPaas. Passionné par le développement web et les nouvelles technologies, je suis constamment à la recherche de nouvelles opportunités pour apprendre et grandir professionnellement.</p>
+<h3 align="left">💻 Tech Stack</h3>
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/miguel-kidimba-099425221/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="16" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Kidimba_Miguel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="28" height="16" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="28" height="16" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="28" height="16" alt="youtube logo"  />
-</div>
-
-###
-
-<h4 align="left">🌟 Compétences</h4>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="23" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="23" alt="angularjs logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="23" alt="react logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="23" alt="vuejs logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="23" alt="nodejs logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="23" alt="npm logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="23" alt="redis logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="23" alt="redux logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="23" alt="mysql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="23" alt="mongodb logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="23" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="23" alt="css3 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="23" alt="bootstrap logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="23" alt="sass logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="23" alt="python logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="23" alt="php logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="23" alt="java logo"  />
-</div>
-
-###
-
-<h4 align="left">🚀 Technologies et Outils</h4>
+<h6 align="left">Langages de Programmation</h6>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" height="23" alt="debian logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="23" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="23" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="23" alt="apache logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="23" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="23" alt="composer logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
 
 ###
 
-<h4 align="left">🪟 Vue</h4>
-
-###
-
-<br clear="both">
-
-<img align="right" height="186" src="https://videogamemods.com/fighterz/wp-content/uploads/sites/5/cmdm/175362/1583851590_25fps.gif"  />
+<h6 align="left">Bibliothèques et Frameworks</h6>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiddMiguel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=fr&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo"  />
 </div>
 
 ###
 
-<br clear="both">
+<h6 align="left">Bases de Données</h6>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiddMiguel&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false&order=2" height="171" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kiddMiguel&locale=fr&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="171" alt="streak graph"  />
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h6 align="left">Gestionnaires de Paquets</h6>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+</div>
+
+###
+
+<h6 align="left">Conteneurisation et Orchestration (En cours d'apprentissage)</h6>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="40" alt="kubernetes logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiddMiguel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=fr&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiddMiguel&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
