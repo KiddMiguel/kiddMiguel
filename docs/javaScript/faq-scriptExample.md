@@ -1,10 +1,16 @@
-## Exemple d'un Script pour détécter les doublons
-#### Objectif du Code
-L'objectif est de supprimer les lignes en doublon dans les données retournées par le webservice. Deux lignes sont considérées comme des doublons si elles ont :
+# FAQ - Exemple de Script
 
-- La même date de création (date_creation)
-- Le même numéro de badge (numero_badge)
-Nous devons garder uniquement la première occurrence de chaque doublon, tout en collectant les informations des doublons détectés pour les mettre à jour via une API.
+## Détecter les Doublons
+
+### Objectif du Code
+- Supprimer les lignes en doublon dans les données retournées par le webservice.
+- Deux lignes sont considérées comme des doublons si elles ont :
+  - La même **date de création** (`date_creation`).
+  - Le même **numéro de badge** (`numero_badge`).
+- Garder uniquement la première occurrence de chaque doublon.
+- Collecter les informations des doublons détectés pour mise à jour via une API.
+
+### Code Exemple
 
 ```javascript
 function onLoad_view927() {
@@ -50,13 +56,3 @@ function onLoad_view927() {
     console.log("Opération terminée !");
   }
 }
-```
-
-### Points principaux dans ce correctif :
-1. **`Set` pour suivre les doublons** : Cela permet de garder une trace des combinaisons uniques de `date_creation` et `numero_badge` sans modifier directement le tableau d'origine.
-2. **`filter` pour créer un tableau filtré** : C'est plus propre et évite les problèmes de gestion d'indice avec `splice`.
-3. **Rapports des doublons détectés** : Les doublons sont ajoutés dans le tableau `array`, qui est ensuite envoyé à l'API via `updateItems`.
-
-### Résultat attendu :
-- Seules les premières occurrences des enregistrements avec une combinaison unique de `date_creation` et `numero_badge` seront conservées.
-- Les doublons seront détectés et supprimés proprement.
