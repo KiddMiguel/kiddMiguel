@@ -102,3 +102,10 @@ function findDuplicates(data, selectedFields) {
 - Ce code est utile pour des applications comme le nettoyage de données 
 - ou la gestion des bases de données, où l'identification 
 - et la suppression des doublons sont essentielles pour garantir l'intégrité des données.
+
+
+## Condition avec Tableau
+
+### Objectif
+
+### Code Exemple
