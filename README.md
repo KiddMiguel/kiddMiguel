@@ -1,120 +1,79 @@
-<h1 align="left">👋 Bonjour !</h1>
+# Hi there, I'm Miguel Kidd 👋
 
-###
+### Software Engineer | IT Project Manager | AI & Open Source Enthusiast
 
-<p align="left">Je suis Miguel Kidd, développeur full-stack. Je travaille sur des applications web, des API et leur déploiement, avec un intérêt particulier pour les produits utiles au quotidien.</p>
+I'm a software developer and IT project manager based in France, passionate about building useful software, exploring emerging technologies, and turning ideas into real-world applications.
 
-###
+My interests span **software engineering, artificial intelligence, developer tooling, automation, system architecture, and open-source development**.
 
-<h2 align="left">💫 A propos</h2>
+I enjoy understanding how systems work, experimenting with new approaches, and building tools that make development more efficient.
 
-###
+## 🚀 What I'm Working On
 
-<p align="left">💻 Développement full-stack : interfaces, services et bases de données.<br>🛠️ Projets : Zaanndou, une plateforme de commerce, et Fixhu, une application en cours de développement.<br>📚 J'apprends et j'expérimente autour de Docker, de l'infrastructure et de l'automatisation.<br>🎮 En dehors du code, j'aime jouer à Call of Duty: Warzone.</p>
+- **AI Harness Engineering** — Exploring multi-agent orchestration, persistent memory, task planning, and human-in-the-loop development workflows.
+- **Open Source** — Discovering, testing, building, and contributing to developer tools and software projects.
+- **AI-Powered Applications** — Experimenting with LLMs, AI agents, and intelligent automation.
+- **Software Architecture** — Designing maintainable applications and improving development workflows.
+- **Self-Hosting & Homelab** — Exploring infrastructure, containerization, networking, and deployment.
 
-###
+## 🛠️ Tech Stack
 
-<br clear="both">
+**Frontend & Mobile**
+- React.js, Next.js, React Native, Expo
+- Tailwind CSS, Redux Toolkit
 
-<img align="right" height="200" src="https://videogamemods.com/fighterz/wp-content/uploads/sites/5/cmdm/175362/1583851590_25fps.gif"/>
+**Backend & Databases**
+- Node.js, Express.js, PHP
+- MongoDB, Mongoose, MariaDB
 
+**Infrastructure & Developer Tools**
+- Docker, Git, GitHub
+- VPS, Caddy, HTTPS, DNS
+- VS Code
 
-###
+**AI & Automation**
+- LLMs and AI Agents
+- Codex, Claude Code
+- n8n
+- Multi-Agent Systems
+- Harness Engineering
 
-<h3 align="left">💻 Tech Stack</h3>
+## 💻 Projects
 
-###
+### Zaanndou
+A conversational commerce ecosystem connecting buyers and sellers, with dedicated tools for businesses, product discovery, and digital storefronts.
 
-<h6 align="left">Langages de Programmation</h6>
+### MyKiddVision
+An intelligent personal dashboard designed to organize projects, finances, tasks, goals, and everyday information.
 
-###
+### Personal AI Harness
+An experimental development environment focused on orchestrating AI coding agents, organizing missions, maintaining project memory, and integrating human validation.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-</div>
+### TV OS Ultimate
+An experimental custom TV interface and local infrastructure project for LG webOS.
 
-###
+### Bk Momo
+A digital wallet and mobile money platform concept designed for African markets.
 
-<h6 align="left">Bibliothèques et Frameworks</h6>
+### Desny Express
+A web-based travel and agency management solution.
 
-###
+## 🌱 Currently Exploring
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=black&style=for-the-badge" height="30" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge" height="30" alt="symfony logo"  />
-</div>
+- AI agent orchestration and autonomous development workflows
+- Open-source LLMs and developer tools
+- Software architecture and scalable systems
+- Self-hosted applications and infrastructure
+- Automation and AI-assisted software engineering
 
-###
+## 🎯 My Goals
 
-<h6 align="left">Bases de Données</h6>
+- Build and contribute to meaningful open-source projects.
+- Deepen my expertise in software architecture and AI engineering.
+- Create useful developer tools and intelligent applications.
+- Share technical experiments, learnings, and discoveries.
+- Keep learning, building, and improving.
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h6 align="left">Gestionnaires de Paquets</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="35" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="35" alt="composer logo"  />
-</div>
-
-###
-
-<h6 align="left">Conteneurisation et Orchestration (En cours d'apprentissage)</h6>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiddMiguel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=fr&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiddMiguel&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+**Always learning. Always experimenting. Always building.**
