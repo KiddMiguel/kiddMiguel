@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Je suis Kidd Miguel, étudiant en Bachelor à l'IPSSI - École supérieure d'informatique. Actuellement, je suis développeur web en alternance chez Nids Consulting 🏢.</p>
+<p align="left">Je suis Miguel Kidd, développeur full-stack. Je travaille sur des applications web, des API et leur déploiement, avec un intérêt particulier pour les produits utiles au quotidien.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Mon travail actuel n'est pas spécifique ...<br>📚 Apprentissage continu ...<br>🎯 Finir l'application Fixhu<br>🎲 Assez fort sur Call of duty Warzone ...<br>💻  Développement full-stack ...</p>
+<p align="left">💻 Développement full-stack : interfaces, services et bases de données.<br>🛠️ Projets : Zaanndou, une plateforme de commerce, et Fixhu, une application en cours de développement.<br>📚 J'apprends et j'expérimente autour de Docker, de l'infrastructure et de l'automatisation.<br>🎮 En dehors du code, j'aime jouer à Call of Duty: Warzone.</p>
 
 ###
 
